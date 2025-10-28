@@ -1,1 +1,1 @@
-print('Hello Python update')
+print('Hello Python update for self-hosted')
