@@ -19,5 +19,5 @@ jobs:
           python-version: '3.10'
 
       - name: Run index.py
-        run: python .github/python/index.py | tee logs/output.log
+        run: python .github/python/index.py
 
